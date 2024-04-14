@@ -1,7 +1,7 @@
 # Tic-Tac-Toe AI
 
 ## Opis
-To jest prosta implementacja gry w kółko i krzyżyk z sztuczną inteligencją (AI) napisaną w C++. AI korzysta z algorytmu minimax z przycinaniem alfa-beta, aby wybierać optymalne ruchy i zapewnić wyzwanie dla gracza.
+Implementacja gry w kółko i krzyżyk z wykorzystaniem sztucznej inteligencji (AI) napisana w C++. AI korzysta z algorytmu minimax z przycinaniem alfa-beta, aby wybierać optymalne ruchy i zapewnić wyzwanie dla gracza.
 
 ## Zasady gry
 Gra toczy się na planszy o określonym rozmiarze, a celem jest ułożenie określonej liczby znaków gracza w rzędzie, kolumnie lub przekątnej. Gracz oznaczony jako 'X' rywalizuje z AI, które jest oznaczone jako 'O'. Gracz rozpoczyna, a następnie gracze wykonują ruchy na przemian, aż zostaną spełnione jedne z trzech warunków końca gry: wygrana, remis lub zapełniona plansza.
@@ -21,5 +21,3 @@ Enter the size of the board: 3
 Enter the length to win: 3
 
 Podając powyższe wartości, rozpoczniesz grę na planszy 3x3, gdzie celem jest ułożenie 3 znaków w rzędzie, kolumnie lub przekątnej.
-
-
